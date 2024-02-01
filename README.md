@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working as a research software engineer at eScience Center in Amsterdam.
+I’m currently working as a research software engineer at the eScience Center in Amsterdam.
 
 I love science, coding, sports and languages. 
 

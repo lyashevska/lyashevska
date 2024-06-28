@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I’m currently working as a research software engineer.
-I love science, coding, sports and languages. 
+I love science, software, sports and languages. 
 
 <!--
 - 🌱 I’m currently learning javascript, 

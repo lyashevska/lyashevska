@@ -3,6 +3,8 @@
 I’m currently working as a research software engineer.
 I love science 👩‍🔬, software, sports 🥋🏄‍♀️ and languages. 
 
+If you want to see my publications have a look [here](https://github.com/lyashevska/mypapers)
+
 <!--
 - 🌱 I’m currently learning javascript, 
 - 👯 I’m looking to collaborate on ...

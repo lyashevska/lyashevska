@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I’m currently working as a research software engineer.
-I love science 👩‍🔬, software, sports 🥋🏄‍♀️ and languages. 
+I love science 👩‍🔬, software, sports 🥋🏄‍♀️, and languages. 
 
 If you want to see my publications have a look [here](https://github.com/lyashevska/mypapers)
 
